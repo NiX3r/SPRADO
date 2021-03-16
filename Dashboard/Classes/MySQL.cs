@@ -18,7 +18,7 @@ namespace Dashboard.Classes
         public MySQL()
         {
 
-            connection = new MySqlConnection("Server=eu01-sql.pebblehost.com;User ID=customer_161345_sprado;Password=kSmT@~3eW$WoT0O9VzmT;Database=customer_161345_sprado");
+            connection = new MySqlConnection("too secret for show!!");
 
             try
             {
